@@ -1,1 +1,3 @@
 # recipe-blog-page
+
+H.O.T - House of Taste! is a responsive food blog website that showcases delicious recipes and highlights the journey of renowned chefs, with a focus on celebrity chef Shipra Khanna. Built using HTML and CSS, the site features a clean and user-friendly layout, offering a seamless browsing experience on mobile, tablet, and desktop devices. The blog includes a personal profile section for the chef, a curated list of her favorite recipes with step-by-step instructions, and a contact section for user engagement. The design employs CSS Flexbox for layout and Font Awesome for stylish social media icons. The project emphasizes accessibility, simplicity, and modern web design practices to create an engaging platform for food enthusiasts.
